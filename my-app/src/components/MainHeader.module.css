@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    width: 372px;
+    height: 45px;
+    top: 17px;
+    left: 22px;
+    background-color:rgba(0, 0, 0, 0.6)
+}
+
+.header h1{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Staatliches';
+    margin-left: 19px;
+    color: #F5F5F5;
+}
+
+.header p{
+    font-size: 14px;
+    font-weight: 900;
+    font-family: 'Roboto';
+    margin-right: 19px;
+    color: #F5F5F5;
+}
